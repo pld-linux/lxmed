@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	Main Menu Editor for LXDE. Written in Java
 Summary(de.UTF-8):	Main Menu Editor für LXDE. Geschrieben in Java.
 Name:		lxmed
